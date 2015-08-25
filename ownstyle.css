@@ -1,0 +1,32 @@
+body{
+    font-family: 'Lato', sans-serif;
+    color: #D3D3D3; 
+    font-weight:300; 
+    background-color: black;
+}
+
+
+.crop{
+    width: 1170px;
+    height: 550px;
+    overflow: hidden; 
+}
+
+img.expand { max-width:555px; max-height:300px; width:auto; }
+
+.boxgrid{
+    width: 325px;
+    height: 260px;
+    margin:10px;
+    float:left;
+    background:#161613;
+    border: solid 2px #8399AF;
+    overflow: hidden;
+    position: relative;
+}
+
+.button_font{
+    color:black; 
+    font-weight:bold; 
+    font-family:'Lato', sans-serif; 
+}
